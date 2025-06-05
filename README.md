@@ -4,6 +4,7 @@
 This project implements a symbol table for a simple programming language with scope management and type checking. It's part of the Advanced Programming course assignment. This assignment demands skillful use of Functional Programming, higher-order function and list comprehension.  
 
 ## Project Structure
+```
 BTL03/ 
 ├── main.py # Entry point and test runner
 ├── StaticError.py # Error definitions 
@@ -11,6 +12,7 @@ BTL03/
 ├── SymbolTable.py # Core symbol table implementation 
 ├── TestSuite.py # Test cases 
 └── TestUtils.py # Testing utilities
+```
 
 ## Features
 - Variable declaration and type checking
