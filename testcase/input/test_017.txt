@@ -1,0 +1,5 @@
+INSERT x number
+INSERT y number
+INSERT z string
+ASSIGN y x
+ASSIGN x y
